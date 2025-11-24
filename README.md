@@ -419,9 +419,4 @@ A: To tell the receiver exactly when to sample each bit. Without it, clock drift
 ← Previous: [Chapter 13 - Clock Signals](../ch13_clock_signals/) | Next: [Chapter 15 - Transmission Methods](../ch15_transmission_methods/) →
 
 ---
-
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
